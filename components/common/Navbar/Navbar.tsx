@@ -50,7 +50,7 @@ const Navbar: FC = () => {
     const fetchCollections = async () => {
       const result = await getAllCollections(
         builderConfig,
-        3,
+        2,
         0,
         'data.handle,data.title'
       )

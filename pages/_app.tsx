@@ -14,6 +14,7 @@ import '../blocks/ProductGrid/ProductGrid.builder'
 import '../blocks/CollectionView/CollectionView.builder'
 import '../blocks/Hero/Hero.builder'
 import '../blocks/Text/Text.builder'
+import '../blocks/CountDown/CountDown.builder'
 
 const Noop: FC = ({ children }) => <>{children}</>
 

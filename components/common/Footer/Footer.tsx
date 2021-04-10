@@ -22,13 +22,13 @@ const Footer: FC<Props> = ({ className }) => {
             <span className="rounded-full border border-gray-700 mr-2">
               <Logo />
             </span>
-            <span>ACME</span>
+            <span>Mids Shop</span>
           </a>
         </Link>
         <div className="flex space-x-6 items-center h-10">
           <a
-            aria-label="Github Repository"
-            href="https://github.com/BuilderIO/nextjs-shopify"
+            aria-label="Mids Shop"
+            href="https://github.com/MidhaTahir"
             className={s.link}
           >
             <Github />
